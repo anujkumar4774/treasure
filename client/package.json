@@ -8,6 +8,7 @@
     "classnames": "^2.2.6",
     "jwt-decode": "^2.2.0",
     "mern-auth": "file:..",
+    "is-empty": "^1.2.0",
     "react": "^16.6.3",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^16.6.3",
